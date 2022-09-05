@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymsvDZZGMnW6amHeD5AE9q4zNQGRPJH7jI+QLBqUD9DcVznJSPIx0DBC750fTEG+PxVYEk1JoeUVtG5jcewO+A==",
+  "success": true,
+  "projectFilePath": "/Users/viktorlabroski/Documents/projects/c#/selenium-project/selenium-project/selenium-project.csproj",
+  "expectedPackageFiles": [
+    "/Users/viktorlabroski/.nuget/packages/microsoft.codecoverage/17.3.0/microsoft.codecoverage.17.3.0.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/microsoft.net.test.sdk/17.3.0/microsoft.net.test.sdk.17.3.0.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/microsoft.testplatform.objectmodel/17.3.0/microsoft.testplatform.objectmodel.17.3.0.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/microsoft.testplatform.testhost/17.3.0/microsoft.testplatform.testhost.17.3.0.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/selenium.webdriver/4.3.0/selenium.webdriver.4.3.0.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/selenium.webdriver.chromedriver/103.0.5060.5300/selenium.webdriver.chromedriver.103.0.5060.5300.nupkg.sha512",
+    "/Users/viktorlabroski/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
